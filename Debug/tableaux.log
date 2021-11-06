@@ -1,0 +1,7 @@
+﻿  maintableau.cpp
+  TableauBorne.cpp
+  tableaux.cpp
+  Génération de code en cours...
+C:\Users\Hp\Desktop\poo cpp\tableaux\tableaux.cpp(50): warning C4715: 'inter::tableau::operator[]' : les chemins de contrôle ne retournent pas tous une valeur
+C:\Users\Hp\Desktop\poo cpp\tableaux\TableauBorne.cpp(26): warning C4715: 'inter::TableauBorne::operator[]' : les chemins de contrôle ne retournent pas tous une valeur
+  tableaux.vcxproj -> C:\Users\Hp\Desktop\poo cpp\tableaux\Debug\tableaux.exe
